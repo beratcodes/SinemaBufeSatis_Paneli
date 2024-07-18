@@ -30,7 +30,7 @@ Aşağıda uygulamanın arayüzüne dair bir ekran görüntüsü bulunmaktadır:
 
 ## Katkıda Bulunanlar
 
-- **Geliştirici**: [Senin Adın](https://github.com/beratcodes)
+- **Geliştirici**: [Berat Çakır](https://github.com/beratcodes)
 - **İlham Kaynağı**: Murat Yücedağ
 
 
